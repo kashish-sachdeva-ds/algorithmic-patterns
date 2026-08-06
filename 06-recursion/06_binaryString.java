@@ -1,4 +1,4 @@
-public class Main {
+class Main {
 
     static void binString(int n, String ans) {
 

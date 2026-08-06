@@ -1,4 +1,4 @@
-public class TowerOfHanoi {
+class TowerOfHanoi {
 
     public static void towerOfHanoi(int n, String source, String destination, String helper) {
         if (n == 1) {

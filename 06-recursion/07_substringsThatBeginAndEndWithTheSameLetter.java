@@ -1,4 +1,4 @@
-public class Main {
+class Main {
 
     static int validSubstring(String s) {
 
