@@ -1,4 +1,4 @@
-public class Main {
+class Main {
 
     static void printRev(String str, int idx) {
         if (idx < 0) return;

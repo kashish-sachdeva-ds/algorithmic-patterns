@@ -1,4 +1,4 @@
-public class Main {
+class Main {
 
     static int first = -1;
     static int last = -1;
