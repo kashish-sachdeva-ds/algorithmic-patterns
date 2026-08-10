@@ -1,4 +1,4 @@
-public class Main {
+class Main {
 
     static void removeDuplicates(String str, String ans, boolean[] map) {
 
