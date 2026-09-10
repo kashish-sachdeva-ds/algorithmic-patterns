@@ -1,5 +1,4 @@
-import java.util.*;
-public class MinSubArray {
+class MinSubArray {
     public static int minSubArray(int[] arr,int k){
         
         int sum=0,left=0,minLength=Integer.MAX_VALUE;
