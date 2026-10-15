@@ -14,10 +14,4 @@ class Solution {
 
         return pq.peek();
     }
-
-    private static class ListNode {
-
-        public ListNode() {
-        }
-    }
 }
